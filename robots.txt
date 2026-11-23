@@ -35,4 +35,4 @@ User-agent: CCBot
 Allow: /
 
 # Sitemap Indexation
-Sitemap: https://samuthra182005.github.io/rajini-website/sitemap.xml
+Sitemap: https://samuthra162005.github.io/rajini-website/sitemap.xml
