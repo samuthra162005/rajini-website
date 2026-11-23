@@ -2,39 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-    <loc>http://localhost:3000/</loc>
-    <lastmod>2026-11-22</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://samuthra182005.github.io/rajini-website/</loc>
+    <lastmod>2026-11-23</lastmod>
+    <changefreq>daily</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>http://localhost:3000/rajini.webp</image:loc>
-      <image:title>Superstar Rajinikanth Official Tribute Portrait</image:title>
-      <image:caption>Superstar Rajinikanth — 50 golden years of Indian Cinema from conductor to emperor</image:caption>
+      <image:loc>https://samuthra182005.github.io/rajini-website/rajini.webp</image:loc>
+      <image:title>Rajinikanth — Thalaivar Nirantharam Official Portrait</image:title>
+      <image:caption>Superstar Rajinikanth — 50 golden years of Indian Cinema from conductor to emperor. Thalaivar Nirantharam.</image:caption>
     </image:image>
     <image:image>
-      <image:loc>http://localhost:3000/eJINI6.webp</image:loc>
+      <image:loc>https://samuthra182005.github.io/rajini-website/rajini.png</image:loc>
+      <image:title>Superstar Rajinikanth Master Portrait</image:title>
+      <image:caption>High resolution portrait of Superstar Rajinikanth</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://samuthra182005.github.io/rajini-website/eJINI6.webp</image:loc>
       <image:title>Superstar Rajinikanth Title Poster</image:title>
       <image:caption>Iconic retro title artwork and silhouette of Rajinikanth</image:caption>
     </image:image>
     <image:image>
-      <image:loc>http://localhost:3000/enthiran.webp</image:loc>
+      <image:loc>https://samuthra182005.github.io/rajini-website/final.webp</image:loc>
+      <image:title>Thalaivar Nirantharam Final Portrait</image:title>
+      <image:caption>One Sun, One Moon, One Superstar — Thalaivar Nirantharam</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://samuthra182005.github.io/rajini-website/enthiran.webp</image:loc>
       <image:title>Rajinikanth as Chitti the Robot in Enthiran</image:title>
       <image:caption>2010 blockbuster Enthiran directed by S. Shankar</image:caption>
     </image:image>
     <image:image>
-      <image:loc>http://localhost:3000/sun.webp</image:loc>
+      <image:loc>https://samuthra182005.github.io/rajini-website/sun.webp</image:loc>
       <image:title>One Sun - Celestial Tribute to Superstar Rajinikanth</image:title>
       <image:caption>Innaikkum endrendraikkum oru thalaivan dhaan</image:caption>
     </image:image>
     <image:image>
-      <image:loc>http://localhost:3000/moon.webp</image:loc>
+      <image:loc>https://samuthra182005.github.io/rajini-website/moon.webp</image:loc>
       <image:title>One Moon - Celestial Tribute to Superstar Rajinikanth</image:title>
       <image:caption>Nee end card vatcha ivan trenda maathi vepan</image:caption>
     </image:image>
     <image:image>
-      <image:loc>http://localhost:3000/final.webp</image:loc>
-      <image:title>Thalaivar Nirandharam Final Portrait</image:title>
-      <image:caption>One Sun, One Moon, One Superstar — Thalaivar Nirandharam</image:caption>
+      <image:loc>https://samuthra182005.github.io/rajini-website/jailer.webp</image:loc>
+      <image:title>Rajinikanth in Jailer 2</image:title>
+      <image:caption>Jailer 2 ₹835.80 Crore Worldwide All-Time Record</image:caption>
     </image:image>
   </url>
 </urlset>
